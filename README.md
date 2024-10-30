@@ -40,6 +40,7 @@ Thanks for Aldana Perazzo, Paulo Breviglieri, Ronoaldo Pereira and Sidney Hatada
 
 # Tips
 
+* https://www.linkedin.com/pulse/passing-all-12-google-cloud-certifications-chee-siong/
 * https://github.com/sathishvj/awesome-gcp-certifications/blob/master/associate-cloud-engineer.md
 * https://medium.com/@adityasuresh2010/how-to-pass-google-professional-cloud-architect-certification-exam-a732d7f9287e
 * https://gcp-examquestions.com/google-associate-cloud-engineer-exam-tips/
